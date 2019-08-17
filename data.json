@@ -3,19 +3,19 @@
     "title": "Student",
     "intro": "Head Full Of Dreams",
     "skills": [{
-            "title": "Skill 1",
+            "title": "C",
             "rating": "05"
         },
         {
-            "title": "Skill 2",
+            "title": "C++",
             "rating": "05"
         },
         {
-            "title": "Skill 3",
+            "title": "JAVA",
             "rating": "05"
         },
         {
-            "title": "Skill 4",
+            "title": "PYTHON",
             "rating": "05"
         }
     ],
